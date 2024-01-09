@@ -91,7 +91,7 @@
 <h4>Softwares :</h4>
 <p>
   <a href="" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/-Figma-000?&logo=Figma" /></a>
-  <a href="" target="_blank"><img alt="Canvas" src="https://img.shields.io/badge/-Canvas-000?&logo=Canvas" /></a>
+  <a href="" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/-Canva-000?&logo=Canva" /></a>
   <a href="" target="_blank"><img alt="visualstudiocode" src="https://img.shields.io/badge/-Visual Studio Code-000?&logo=visualstudiocode"/></a>
 </p>
 
