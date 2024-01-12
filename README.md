@@ -136,9 +136,9 @@
   <a href="https://buymeacoffee.com/sandeepchahar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-000?&logo=buymeacoffee"/>
   </a>
-  <a href="https://getupilink.com/upi/sandeep8685@paytm?am=10" target="_blank"><img alt="Paytm" src="https://img.shields.io/badge/-Paytm%20%E2%82%B910-000?&logo=Paytm" /></a>
+  <a href="https://getupilink.com/upi/sandeep8685@paytm?am=10" target="_blank"><img alt="Paytm" src="https://img.shields.io/badge/-Paytm%20%E2%82%B910-000?&logo=Paytm"/></a>
   <a href="https://getupilink.com/upi/sandeep8685@paytm?am=10" target="_blank"><img alt="PhonePe" src="https://img.shields.io/badge/-PhonePe ₹10-000?&logo=Phonepe" /></a>
-  <a href="https://getupilink.com/upi/sandeep8685@paytm?am=10" target="_blank"><img alt="Google Pay" src="https://img.shields.io/badge/-Google Pay ₹10-000?&logo=googlepay" /></a>
+  <a href="https://getupilink.com/upi/sandeep8685@paytm?am=10" target="_blank"><img alt="Google Pay" src="https://img.shields.io/badge/-Google Pay ₹10-000?&logo=googlepay"/></a>
 </p>
 <!---------------------------------END OF DONATION SECTION------------------------------->
 
