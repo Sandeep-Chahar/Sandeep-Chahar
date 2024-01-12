@@ -102,9 +102,9 @@
 
 <!---------------------------------CERTIFICATES SECTION------------------------------->
 
-<h4>Softwares :</h4>
+<h4>Certificates :</h4>
 <p>
-  <a href="https://github.com/Sandeep-Chahar/Certificates/blob/main/1-474297aa-0cc5-4b20-af48-79b3ea5aabf1.pdf" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000?&logo=Introduction to HTML ~ Infosys Springboard" /></a>
+  <a href="https://github.com/Sandeep-Chahar/Certificates/blob/main/1-474297aa-0cc5-4b20-af48-79b3ea5aabf1.pdf" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000?&logo=Introduction to HTML ~ Infosys Springboard"/></a>
 </p>
 
 <!---------------------------------END OF CERTIFICATES SECTION------------------------------->
