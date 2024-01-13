@@ -49,6 +49,8 @@
 <h4>Where to find me :</h4>
 <p>
   <a href="https://github.com/Sandeep-Chahar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-Github-000?&logo=Github" /></a>
+  <a href="https://leetcode.com/Sandeep-Chahar" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode--000?&logo=LeetCode" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sandeepchahar" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks--000?&logo=GeeksforGeeks" /></a>
   <a href="https://www.instagram.com/_ankitchahar_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-000?&logo=Instagram" /></a>
   <a href="https://www.behance.net/sandeepchahar1" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/-Behance-000?&logo=Behance" /></a>
   <a href="https://www.linkedin.com/in/sandeepchahar/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin" /></a>
