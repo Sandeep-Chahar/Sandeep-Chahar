@@ -10,8 +10,12 @@
 
 <p align="center">
 <a href="https://github.com/Sandeep-Chahar?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sandeep-Chahar?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
-<a href="https://github.com/Sandeep-Chahar"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sandeep-Chahar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sandeep-Chahar?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/>
+</a>
+<a href="https://github.com/Sandeep-Chahar">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sandeep-Chahar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+</a>
+
    <a href="https://github.com/Sandeep-Chahar"> <img src="https://komarev.com/ghpvc/?username=Sandeep-Chahar&style=for-the-badge&color=brightgreen"></a>
 <a href="https://buymeacoffee.com/sandeepchahar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
