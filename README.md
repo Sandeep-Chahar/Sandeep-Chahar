@@ -1,12 +1,7 @@
 <!------------------HEADING SECTION----------------->
-<div align="center">
-  <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=35&duration=2700&pause=500&center=true&vCenter=true&random=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;4%2B+Years+of+Coding+Experience" alt="Typing SVG">
-  </a>
-</div>
 
 
-<h3  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey there, I'm <a href="https://github.com/Sandeep-Chahar">Sandeep Chahar</a></h3>
+<h3  align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey there, I'm <a href="https://github.com/Sandeep-Chahar">Sandeep</a></h3>
 
 <p align="center">
 <a href="https://github.com/Sandeep-Chahar?tab=repositories&sort=stargazers">
@@ -33,7 +28,7 @@
 
 - 👨‍ I am currently a student of **BCA (2nd-year)**
 - 💻 Major is **Computer Science and Technology**
-- 🌱 I'm currently learning **Web development and English**
+- 🌱 I'm currently learning **Web development and Data analyst**
 - 🤔 My hobbies are **playing chess and running**
 - 💬 If you have any questions, **just ask me**
 - This is my email: **sandeepchahar5555@gmail.com**
